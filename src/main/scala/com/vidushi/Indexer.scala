@@ -77,10 +77,10 @@ class Indexer(){
   //----------------------------------------------------------------//
   private def indexTextFiles(file: File): Unit ={
     val doc:Document=new Document
-    //doc.add(new Field("content",new FileReader(file)))
-    doc.add(new Field("Location",new FileReader(file)))
+    doc.add(new Field("content",new FileReader(file)))
+   /* doc.add(new Field("Location",new FileReader(file)))
     doc.add(new Field("Fees",new FileReader(file)))
-    doc.add(new Field("Experience",new FileReader(file)))
+    doc.add(new Field("Experience",new FileReader(file)))*/
     doc.add(new Field("filename", file.getName, Field.Store.YES, Field.Index.ANALYZED))
     doc.add(new Field("fullpath",file.getAbsolutePath,Field.Store.YES,Field.Index.ANALYZED))
     if(doc!=null)
