@@ -1,0 +1,6 @@
+Speciality : Dentist
+Name : Dr. Ramya
+Location : Bangalore
+Experience :18 years
+Fees :200
+Qualification :BDS, MDS - Prosthodontics

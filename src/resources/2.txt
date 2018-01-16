@@ -1,0 +1,6 @@
+Speciality : Dentist
+Name : Dr. Prany
+Location : Bangalore
+Experience :9 years
+Fees :500
+Qualification :BDS, Fellow of Academy of General Education (FAGE)

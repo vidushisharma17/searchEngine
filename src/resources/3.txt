@@ -1,0 +1,6 @@
+Speciality : Dermatologist
+Name : Dr. Rashmi
+Location : Patiala
+Experience :11 years
+Fees :200
+Qualification :MBBS, MD - Dermatology, Diploma in Medical Law and Ethics (PGDMLE)
